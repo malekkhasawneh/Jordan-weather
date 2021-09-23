@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881195968429",
+    "project_id": "cites-weather",
+    "storage_bucket": "cites-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881195968429:android:cf59b1d9860e9bde812324",
+        "android_client_info": {
+          "package_name": "com.example.citiesweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881195968429-com808mpv3opk5htmog5mv7mq4cteg9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDniFZikAdeeCvd2ZL5zCEHWR0f3dv1KLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881195968429-com808mpv3opk5htmog5mv7mq4cteg9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
